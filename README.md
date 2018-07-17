@@ -1,5 +1,5 @@
 # disableBackButton
-hello guys , code for disabling back button is attached, Go through is guys
+hello guys , code for disabling back button is attached, Go through it
 
 I have used simple javascript, which basically null the history for that particular file
 
